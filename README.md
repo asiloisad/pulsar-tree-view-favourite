@@ -2,6 +2,8 @@
 
 Add files and folders to a favourites section in [tree-view-plus](https://web.pulsar-edit.dev/packages/tree-view-plus). Favourites persist globally across projects.
 
+![panel](https://github.com/asiloisad/pulsar-tree-view-favourite/blob/master/assets/view.png?raw=true)
+
 ## Installation
 
 To install `tree-view-favourite` search for [tree-view-favourite](https://web.pulsar-edit.dev/packages/tree-view-favourite) in the Install pane of the Pulsar settings or run `ppm install tree-view-favourite`. Alternatively, you can run `ppm install asiloisad/pulsar-tree-view-favourite` to install a package directly from the GitHub repository.
