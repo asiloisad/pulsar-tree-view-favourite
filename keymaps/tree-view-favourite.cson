@@ -1,0 +1,3 @@
+'.tree-view .favourites-section':
+  'delete': 'tree-view-favourite:remove'
+  'backspace': 'tree-view-favourite:remove'

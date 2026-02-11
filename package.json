@@ -1,0 +1,25 @@
+{
+  "name": "tree-view-favourite",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "description": "Add files to a favourites section in tree-view-plus. Favourites persist globally across projects.",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+    "cson": "^7.20.0"
+  },
+  "consumedServices": {
+    "tree-view": {
+      "versions": {
+        "1.0.0": "consumeTreeView"
+      }
+    },
+    "roots": {
+      "versions": {
+        "1.0.0": "consumeRoots"
+      }
+    }
+  }
+}
