@@ -2,7 +2,7 @@
   "name": "tree-view-favourites",
   "version": "0.3.0",
   "main": "./lib/main",
-  "description": "Add files to a favourites section in tree-view-plus. Favourites persist globally across projects.",
+  "description": "Add files and folders to a favourites section in tree-view-plus",
   "repository": "https://github.com/asiloisad/pulsar-tree-view-favourites",
   "bugs": {
     "url": "https://github.com/asiloisad/pulsar-tree-view-favourites/issues"
