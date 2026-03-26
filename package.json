@@ -11,9 +11,6 @@
   "engines": {
     "atom": ">=1.100.0"
   },
-  "dependencies": {
-    "cson": "^7.20.0"
-  },
   "consumedServices": {
     "tree-view": {
       "versions": {
